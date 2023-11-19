@@ -1,4 +1,6 @@
 # MACHINE LEARNING PROJECTS WITH PYTHON ![icons8-machine-learning-53](https://github.com/swaapnaa/MACHINE-LEARNING-PROJECTS/assets/149737403/b5f60b17-092e-473b-9c48-2274cf7dea20)
+![icons8-python-48](https://github.com/swaapnaa/MACHINE-LEARNING-PROJECTS/assets/149737403/444e09b8-c0d9-48c7-8756-98cff6d2ec74)
+
 
 
 This repository contains machine learning projects implemented in Python. The projects demonstrate application of ML algorithms for tasks like classification, regression, clustering, etc.
