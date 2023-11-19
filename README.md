@@ -70,6 +70,45 @@ In addition to Gephi, we also employed Polinode to visualize our sentiment netwo
 ![1685568507865](https://github.com/swaapnaa/MACHINE-LEARNING-PROJECTS/assets/149737403/d1612f8d-55c5-400e-ae16-c5262d157e84)
 ![1685568499250](https://github.com/swaapnaa/MACHINE-LEARNING-PROJECTS/assets/149737403/0c9ccca2-de47-4923-a498-078b1fdb8a33)
 
+## Formula 1 Race Analysis with Python ![icons8-f1-48](https://github.com/swaapnaa/MACHINE-LEARNING-PROJECTS/assets/149737403/9ade0408-b4cc-4224-80a4-1aee45e93088)
+
+
+This project involved analyzing Formula 1 race data from the 2020 season using Pandas, Matplotlib, Seaborn, and Scikit-Learn in Python.
+
+## The key goals were to:
+
+- Explore and visualize race statistics like lap times, points, positions etc.
+- Identify insights like top performers, teamwise comparisons, lap time distributions
+- Build a regression model to predict race points based on grid position
+- Apply clustering to segment drivers based on performance metrics
+- Classify race finish positions using machine learning models
+
+The analysis involved data preprocessing techniques like handling missing values, converting formats, and feature engineering. Visualizations included histograms, boxplots, scatterplots, and bar charts.
+
+## Some key findings
+
+- The average points scored by drivers showed high variance due to retirements
+- Mercedes had the highest total points scored among all teams
+- Grid position had a strong negative correlation with final race position
+- Logistic regression achieved the best accuracy in classifying race finish categories
+
+## Breast Cancer Classification with Machine Learning ![icons8-cancer-cell-65](https://github.com/swaapnaa/MACHINE-LEARNING-PROJECTS/assets/149737403/f0676bda-06ce-46d3-86eb-492807f20bb7)
+
+
+This project involved building a machine learning model to classify breast cancer tumors as benign or malignant based on cell measurements. The dataset was obtained from the UCI Machine Learning Repository.
+
+## The key steps included
+
+- Importing and exploring the breast cancer dataset
+- Visualizing the feature distributions using histograms, pie charts, and boxplots
+- Identifying correlations between features using a heatmap
+- Preprocessing the data by handling missing values and encoding categorical labels
+- Splitting the data into training and test sets
+- Training and evaluating SVM and Random Forest classification models
+- Comparing the precision of the models to identify the better performer
+- Making predictions on a new sample data point
+- The Random Forest model achieved the highest precision with a score of 95%. This indicates the - model correctly classified 95% of malignant tumors in the testing data.
+
 ## Usage
 
 The Jupyter Notebook and Python files for each project are in their respective folders. To run them, install the required libraries and execute the scripts.
